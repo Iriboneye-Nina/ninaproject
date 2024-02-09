@@ -121,7 +121,7 @@ const Footer = () => {
                   Email:
                 </h6>
 
-                <p className="mb-0">masengeshocadeau@gmail.com</p>
+                <p className="mb-0">Nina iriboneye@gmail.com</p>
               </ListGroupItem>
 
               <ListGroupItem className="ps-0 border-0 d-flex align-items-center gap-3">
@@ -139,7 +139,7 @@ const Footer = () => {
 
           <Col lg="12" className="text-center pt-5">
             <p className="copyright">
-              Copyright {year}, designed and developed by Cadeau . All
+              Copyright {year}, designed and developed by Nina . All
               right reserved.
             </p>
           </Col>
